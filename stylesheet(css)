@@ -1,0 +1,123 @@
+.Cloze
+{
+BACKGROUND-COLOR: #FFFF00;
+COLOR: #FF0000;
+FONT-FAMILY: CALIBRI;
+FONT-STYLE: normal;
+FONT-WEIGHT: bold;
+FONT-SIZE: 17pt;
+}
+.Clozed
+{
+BACKGROUND-COLOR: #E67300;
+COLOR: #000000;
+FONT-FAMILY: CALIBRI;
+FONT-STYLE: normal;
+FONT-WEIGHT: bold;
+FONT-SIZE: 17pt;
+}
+.Extract
+{
+BACKGROUND-COLOR: #44C2FF;
+COLOR: #000000;
+FONT-FAMILY: Calibri;
+FONT-STYLE: normal;
+FONT-WEIGHT: normal;
+FONT-SIZE: 17pt;
+}
+.Headers
+{
+BACKGROUND-COLOR: #C6C6FF;
+COLOR: #000000;
+FONT-FAMILY: Calibri;
+FONT-STYLE: normal;
+FONT-WEIGHT: bold;
+FONT-SIZE: 17pt;
+}
+.RefText
+{
+BACKGROUND-COLOR: #FFFFC4;
+COLOR: #000000;
+FONT-FAMILY: Calibri;
+FONT-STYLE: italic;
+FONT-WEIGHT: normal;
+FONT-SIZE: 11pt;
+}
+.Reference
+{
+BACKGROUND-COLOR: #FFFFFF;
+COLOR: #000000;
+FONT-FAMILY: Times New Roman;
+FONT-STYLE: italic;
+FONT-WEIGHT: normal;
+FONT-SIZE: 11pt;
+}
+.Highlight
+{
+BACKGROUND-COLOR: #FFFF86;
+COLOR: #FF0000;
+FONT-FAMILY: Calibri;
+FONT-STYLE: normal;
+FONT-WEIGHT: bold;
+FONT-SIZE: 17pt;
+}
+.SearchHighlight
+{
+BACKGROUND-COLOR: #FFFF00;
+COLOR: #000000;
+FONT-FAMILY: Calibri;
+FONT-STYLE: normal;
+FONT-WEIGHT: bold;
+FONT-SIZE: 11pt;
+}
+.Ignore
+{
+BACKGROUND-COLOR: #DAB6B6;
+COLOR: #000000;
+FONT-FAMILY: Calibri;
+FONT-STYLE: italic;
+FONT-WEIGHT: normal;
+FONT-SIZE: 14pt;
+}
+.TableLabel
+{
+BACKGROUND-COLOR: #CCCCCC;
+COLOR: #0000FF;
+FONT-FAMILY: Times New Roman;
+FONT-STYLE: italic;
+FONT-WEIGHT: normal;
+FONT-SIZE: 11pt;
+}
+
+.hint {
+	padding: .25em;
+	background-color: #e0e0e0;
+}
+
+.note {
+	font-size: smaller;
+}
+
+a.external {
+	padding-right: 13px;
+	background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfArtQ2iRXFWT2QedAfttj2FsPIOE1eCOlEuoWWjgzYaB/IkeGOrxXhqB+uA9Bfcm0lAZuh+YIeAD+cAqSz4kCMUAAAAASUVORK5CYII=") center right no-repeat;
+}
+
+BODY
+{
+BACKGROUND-COLOR: #FFFFFF;
+COLOR: #000000;
+FONT-FAMILY: Calibri;
+FONT-STYLE: normal;
+FONT-WEIGHT: normal;
+FONT-SIZE: 17pt;
+}
+.SearchHighlight1
+{
+BACKGROUND-COLOR: #FFFFFF;
+COLOR: #000000;
+FONT-FAMILY: Calibri;
+FONT-STYLE: normal;
+FONT-WEIGHT: normal;
+FONT-SIZE: 14pt;
+}
