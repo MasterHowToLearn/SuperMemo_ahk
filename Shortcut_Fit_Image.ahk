@@ -3,6 +3,7 @@ CoordMode, Mouse, Screen
 
 a::
 MouseGetPos, OutputVarX, OutputVarY
+BlockInput, MouseMove
 Click, right, %OutputVarX%, %OutputVarY%
 Send {Down}
 Sleep, 100
@@ -18,4 +19,5 @@ Sleep, 100
 Send {Down}
 Sleep, 100
 Send {Enter}
+BlockInput, MouseMoveOff
 return
