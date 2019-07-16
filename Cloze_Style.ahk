@@ -1,10 +1,9 @@
 #IfWinActive ahk_exe sm18.exe ; applicable only for SuperMemo 18
 
 ^Tab:: ; The trigger shortcut is Control Tab
-
-Send ^!{x}
+Send, <span class="Cloze">[...]</span>
 Sleep, 100
-Loop, 30
+Loop, 32
 {
     Send +{Left}
 }
