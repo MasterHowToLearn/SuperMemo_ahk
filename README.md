@@ -1,10 +1,8 @@
-# Introduction
-
-## AutoHotKey scripts for SuperMemo, the best learning tool in the world
+# AutoHotKey scripts for SuperMemo, the best learning tool in the world
 
 Simplest ahk scripts. Please see [AutoHotkey Beginner Tutorial](https://www.autohotkey.com/docs/Tutorial.htm)
 
-All of these scripts assume you're using the latest SuperMemo (currently version 18.03)
+All of these scripts assume you're using the latest SuperMemo (currently version 18.04)
 
 If you're using an older version like SuperMemo 17, simply change
 
