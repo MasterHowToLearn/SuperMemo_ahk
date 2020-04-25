@@ -10,6 +10,4 @@ If you're using an older version like SuperMemo 17, simply change
 
 `#IfWinActive ahk_exe sm18.exe` to `#IfWinActive ahk_exe sm17.exe`
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT License](https://choosealicense.com/licenses/mit/)
