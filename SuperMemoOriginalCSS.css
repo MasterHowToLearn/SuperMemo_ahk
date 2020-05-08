@@ -1,0 +1,111 @@
+.Cloze {
+  background-color: #ffff00;
+  color: #ff0000;
+  font-family: CALIBRI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17pt;
+}
+.Clozed {
+  background-color: #e67300;
+  color: #000000;
+  font-family: CALIBRI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17pt;
+}
+.Extract {
+  background-color: #44c2ff;
+  color: #000000;
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17pt;
+}
+.Headers {
+  background-color: #c6c6ff;
+  color: #000000;
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17pt;
+}
+.RefText {
+  background-color: #ffffc4;
+  color: #000000;
+  font-family: Calibri;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 11pt;
+}
+.Reference {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Times New Roman;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 11pt;
+}
+.Highlight {
+  background-color: #ffff86;
+  color: #ff0000;
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17pt;
+}
+.SearchHighlight {
+  background-color: #ffff00;
+  color: #000000;
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11pt;
+}
+.Ignore {
+  background-color: #dab6b6;
+  color: #000000;
+  font-family: Calibri;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 14pt;
+}
+.TableLabel {
+  background-color: #cccccc;
+  color: #0000ff;
+  font-family: Times New Roman;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 11pt;
+}
+
+.hint {
+  padding: 0.25em;
+  background-color: #e0e0e0;
+}
+
+.note {
+  font-size: smaller;
+}
+
+a.external {
+  padding-right: 13px;
+  background: url("") center right no-repeat;
+}
+
+BODY {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17pt;
+}
+.SearchHighlight1 {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14pt;
+}
