@@ -1,0 +1,83 @@
+/* TTH START */
+div.p {
+margin-top: 7pt;
+}
+
+td div.comp {
+margin-top: -0.6ex;
+margin-bottom: -1ex;
+}
+
+td div.comb {
+margin-top: -0.6ex;
+margin-bottom: -.6ex;
+}
+
+td div.hrcomp {
+line-height: 0.9;
+margin-top: -0.8ex;
+margin-bottom: -1ex;
+}
+
+td div.norm {
+line-height: normal;
+}
+
+span.roman {
+font-family: serif;
+font-style: normal;
+font-weight: normal;
+}
+
+span.overacc2 {
+position: relative;
+left: .8em;
+top: -1.2ex;
+}
+
+span.overacc1 {
+position: relative;
+left: .6em;
+top: -1.2ex;
+}
+
+.tiny {
+font-size: 30%;
+}
+
+.scriptsize {
+font-size: xx-small;
+}
+
+.footnotesize {
+font-size: x-small;
+}
+
+.smaller {
+font-size: smaller;
+}
+
+.small {
+font-size: small;
+}
+
+.normalsize {
+font-size: medium;
+}
+
+.large {
+font-size: large;
+}
+
+.larger {
+font-size: x-large;
+}
+
+.largerstill {
+font-size: xx-large;
+}
+
+.huge {
+font-size: 300%;
+}
+/* TTH END */
