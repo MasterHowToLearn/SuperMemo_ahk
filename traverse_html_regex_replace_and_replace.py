@@ -18,20 +18,23 @@ BACKUP_LOCATION = (
 BACKUP_SUFFIX = "~~"
 
 # Smart single quote
-# &#821[67];
-# '
 smart_single_quote = (
     re.compile(r"&#821[67];", re.U | re.I),
     r"'",
 )
 
 # Smart double quote
-# &#822[01];
-# "
 smart_double_quote = (
     re.compile(r"&#822[01];", re.U | re.I),
     r'"',
 )
+
+# remove the SuperMemo-generated blue colon that appears after splitting
+remove_blue_colon_after_splitting = (
+    re.compile(r'<strong><font color="blue">\s*:\s*</font></strong>', re.U | re.I),
+    r"",
+)
+
 
 file_list = [
     r"s:\supermemo\systems\zenmode\elements\2\27.HTM"
@@ -43,6 +46,7 @@ file_list = [
 find_replace_list = [
     smart_single_quote,
     smart_double_quote,
+    # remove_blue_colon_after_splitting
 ]
 
 ##################################################
